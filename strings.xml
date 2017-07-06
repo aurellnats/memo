@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MEMO</string>
+    <string name="add">ADD</string>
+    <string name="enter_to_do_list">Enter Memo</string>
+</resources>
